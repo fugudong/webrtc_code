@@ -1,0 +1,11 @@
+<!-- 我只需要把日志按指定格式输出到终端 -->
+<seelog type="asynctimer" asyncinterval="1000000" minlevel="debug" maxlevel="error">
+    <outputs formatid="main">
+        <!-- 仅输出到终端 -->
+        <console/>
+    </outputs>
+    <formats>
+        <!-- 设置格式 -->
+        <format id="main" format="%UTCDate %UTCTime - [%LEV] - %RelFile - l%Line - %Msg%n"/>
+    </formats>
+</seelog>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<title>消息统计</title>
+<head></head>
+<body>
+<br></br>
+<h2 align=center>报警消息</h2>
+<table width="90%" align=center border="0" bgcolor="#666666" cellpadding="8">
+    <tr bgcolor="#DDDDDD">
+        <th>IP地址</th>
+        <th>进程名称</th>
+        <th>所属类型</th>
+        <th>详细描述</th>
+        <th>时间</th>
+    </tr>
+    {{range .Todos}}
+        <tr align=center bgcolor="#FFFFFF">
+            <td><font color="#33CC00">{{.Task1}}</font></td>
+            <td><font color="#33CC00">{{.Task2}}</font></td>
+            <td><font color="#33CC00">{{.Task3}}</font></td>
+            <td><font color="#33CC00">{{.Task4}}</font></td>
+            <td><font color="#33CC00">{{.Task5}}</font></td>
+        </tr>
+    {{end}}
+</table>
+
+
+</body>
+</html>

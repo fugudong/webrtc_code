@@ -1,0 +1,38 @@
+<!-- 现在我想把日志输出到终端同时也把日志输出到文件 -->
+<!--https://www.liangzl.com/get-article-detail-16487.html seelog配置-->
+<seelog type="adaptive" mininterval="2000000" maxinterval="100000000" critmsgcount="500"  minlevel="info" maxlevel="critical">
+    <outputs formatid="main">
+        <console/>
+        <!-- 输出到文件，且不同于终端的日志格式 -->
+        <!--<splitter formatid="format1">-->
+            <!--<file path="log.log"/>-->
+        <!--</splitter>-->
+        <!-- <rollingfile>滚动文件(定期清除过期日志)
+        formatid: 指定日志格式; type="size" 按大小; maxsize: 单日志文件最大大小; maxrools: 最大文件数 -->
+        <rollingfile formatid="format1" type="size" filename="./log/roll.log" maxsize="20000000" maxrolls="5" />
+        <!-- <filter>用于单独处理某级别日志
+        过滤日志，把级别是error的通过邮件smtp方式发送出去(一般会发给相应的运维人员) -->
+        <!--<filter levels="error,critical" formatid="error">-->
+            <!--<file path="./log/error.log"/>-->
+            <!--<smtp senderaddress="webim@maoyt.com"-->
+                  <!--sendername="RTC Room Server Exceptional Notification"-->
+                  <!--hostname="smtp.dowindns.com"-->
+                  <!--hostport="25"-->
+                  <!--username="webim@maoyt.com"-->
+                  <!--password="s9fE$8*etc2m#di0">-->
+                  <!--<recipient address="liaoqingfu@maoyt.com"/>-->
+            <!--</smtp>-->
+            <!--&lt;!&ndash;&lt;!&ndash; 按tcp4网络协议发送日志 &ndash;&gt;&ndash;&gt;-->
+            <!--&lt;!&ndash;&lt;!&ndash;<conn net="tcp4" addr="server.address:5514" tls="true" insecureskipverify="true" />&ndash;&gt;&ndash;&gt;-->
+        <!--</filter>-->
+    </outputs>
+    <formats>
+        <!-- 设置格式 -->
+        <!--<format id="main" format="%UTCDate %UTCTime-[%LEV] [%RelFile L%Line] - %Msg%n"/>-->
+        <!--<format id="format1" format="%UTCDate %UTCTime-[%LEV] [%RelFile L%Line] - %Msg%n"/>-->
+        <format id="main" format="%Date(2006-01-02 15:04:05.999)-[%LEV] [%RelFile L%Line] - %Msg%n"/>
+        <format id="format1" format="%Date(2006-01-02 15:04:05.999)-[%LEV] [%RelFile L%Line] - %Msg%n"/>
+        <!--<format id="error" format="%Date(2006 Jan 02/3:04:05 PM MST) [%RelFile L%Line] - %Msg%n"/>-->
+        <format id="error" format="%Date(2006-01-02 15:04:05.999) [%RelFile L%Line] - %Msg%n"/>
+    </formats>
+</seelog>

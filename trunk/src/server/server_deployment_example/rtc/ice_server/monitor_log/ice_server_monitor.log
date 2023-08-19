@@ -1,0 +1,3 @@
+2019-07-12 09:53:46,799|INFO|6256|monitorProcess|153|ice_server is not alive
+2019-07-12 09:53:51,058|INFO|6256|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-07-12 09:53:53,145|INFO|6256|monitorProcess|158|start ice_server succeed

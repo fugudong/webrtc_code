@@ -1,0 +1,15 @@
+<!-- 现在我想把日志输出到终端同时也把日志输出到文件 -->
+<seelog type="asynctimer" asyncinterval="1000000" minlevel="debug" maxlevel="error">
+    <outputs formatid="main">
+        <console/>
+        <!-- 输出到文件，且不同于终端的日志格式 -->
+        <splitter formatid="format1">
+            <file path="log.log"/>
+        </splitter>
+    </outputs>
+    <formats>
+        <!-- 设置格式 -->
+        <format id="main" format="%UTCDate %UTCTime - [%LEV] - %RelFile - l%Line - %Msg%n"/>
+        <format id="format1" format="%Date(2006 Jan 02/3:04:05.000000000 PM MST) [%Level] %Msg%n"/>
+    </formats>
+</seelog>

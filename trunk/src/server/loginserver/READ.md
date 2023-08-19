@@ -1,0 +1,1 @@
+登录服务器，客户端需要使用appid等信息登录loginserver获取roomserver和iceserver的地址

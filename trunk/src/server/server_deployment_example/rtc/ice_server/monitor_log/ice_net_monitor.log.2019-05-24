@@ -1,0 +1,87 @@
+2019-05-24 11:53:05,826|INFO|12941|<module>|273|loading config...
+2019-05-24 11:53:05,838|INFO|12941|<module>|281|iceType        :main
+2019-05-24 11:53:05,838|INFO|12941|<module>|282|bundlePolicy   :max-bundle
+2019-05-24 11:53:05,838|INFO|12941|<module>|283|rtcpMuxPolicy  :require
+2019-05-24 11:53:05,839|INFO|12941|<module>|284|iceTransportPolicy:relay
+2019-05-24 11:53:05,839|INFO|12941|<module>|285|ip             :129.204.197.215
+2019-05-24 11:53:05,839|INFO|12941|<module>|286|turnPort       :3478
+2019-05-24 11:53:05,839|INFO|12941|<module>|287|stunPort       :3478
+2019-05-24 11:53:05,839|INFO|12941|<module>|288|maxBandwidth   :5120
+2019-05-24 11:53:05,839|INFO|12941|<module>|289|username       :lqf
+2019-05-24 11:53:05,839|INFO|12941|<module>|290|credential     :123456
+2019-05-24 11:53:05,839|INFO|12941|<module>|291|net_card       :eth0
+2019-05-24 11:53:05,839|INFO|12941|<module>|292|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-24 11:53:05,839|INFO|12941|tryRegisterIce|201|tryRegisterIce....
+2019-05-24 11:53:05,843|INFO|12941|tryRegisterIce|210|register ice successful
+2019-05-24 11:53:06,822|INFO|12941|tryRegisterIce|214|sendMail ok
+2019-05-24 11:53:06,822|INFO|12941|tryRegisterIce|234|tryRegisterIce finish.
+2019-05-24 14:02:51,754|ERROR|12941|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-24 14:02:51,754|ERROR|12941|reportRxTxRate|263|http failed:[Errno 111] Connection refused
+2019-05-24 14:03:41,722|INFO|29245|<module>|274|loading config...
+2019-05-24 14:03:41,722|INFO|29245|<module>|282|iceType        :main
+2019-05-24 14:03:41,723|INFO|29245|<module>|283|bundlePolicy   :max-bundle
+2019-05-24 14:03:41,723|INFO|29245|<module>|284|rtcpMuxPolicy  :require
+2019-05-24 14:03:41,723|INFO|29245|<module>|285|iceTransportPolicy:relay
+2019-05-24 14:03:41,723|INFO|29245|<module>|286|ip             :129.204.197.215
+2019-05-24 14:03:41,723|INFO|29245|<module>|287|turnPort       :3478
+2019-05-24 14:03:41,723|INFO|29245|<module>|288|stunPort       :3478
+2019-05-24 14:03:41,723|INFO|29245|<module>|289|maxBandwidth   :5120
+2019-05-24 14:03:41,723|INFO|29245|<module>|290|username       :lqf
+2019-05-24 14:03:41,723|INFO|29245|<module>|291|credential     :123456
+2019-05-24 14:03:41,723|INFO|29245|<module>|292|net_card       :eth0
+2019-05-24 14:03:41,723|INFO|29245|<module>|293|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-24 14:03:41,723|INFO|29245|tryRegisterIce|201|tryRegisterIce....
+2019-05-24 14:03:41,726|INFO|29245|tryRegisterIce|210|register ice successful
+2019-05-24 14:03:42,605|INFO|29245|tryRegisterIce|214|sendMail ok
+2019-05-24 14:03:42,605|INFO|29245|tryRegisterIce|235|tryRegisterIce finish.
+2019-05-24 14:34:02,463|INFO|6041|<module>|274|loading config...
+2019-05-24 14:34:02,464|INFO|6041|<module>|282|iceType        :main
+2019-05-24 14:34:02,464|INFO|6041|<module>|283|bundlePolicy   :max-bundle
+2019-05-24 14:34:02,464|INFO|6041|<module>|284|rtcpMuxPolicy  :require
+2019-05-24 14:34:02,464|INFO|6041|<module>|285|iceTransportPolicy:relay
+2019-05-24 14:34:02,464|INFO|6041|<module>|286|ip             :129.204.197.215
+2019-05-24 14:34:02,464|INFO|6041|<module>|287|turnPort       :3478
+2019-05-24 14:34:02,464|INFO|6041|<module>|288|stunPort       :3478
+2019-05-24 14:34:02,465|INFO|6041|<module>|289|maxBandwidth   :5120
+2019-05-24 14:34:02,465|INFO|6041|<module>|290|username       :lqf
+2019-05-24 14:34:02,465|INFO|6041|<module>|291|credential     :123456
+2019-05-24 14:34:02,465|INFO|6041|<module>|292|net_card       :eth0
+2019-05-24 14:34:02,465|INFO|6041|<module>|293|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-24 14:34:02,465|INFO|6041|tryRegisterIce|201|tryRegisterIce....
+2019-05-24 14:34:02,468|INFO|6041|tryRegisterIce|210|register ice successful
+2019-05-24 14:34:03,066|INFO|6041|tryRegisterIce|214|sendMail ok
+2019-05-24 14:34:03,066|INFO|6041|tryRegisterIce|235|tryRegisterIce finish.
+2019-05-24 14:35:00,494|INFO|6358|<module>|274|loading config...
+2019-05-24 14:35:00,495|INFO|6358|<module>|282|iceType        :main
+2019-05-24 14:35:00,495|INFO|6358|<module>|283|bundlePolicy   :max-bundle
+2019-05-24 14:35:00,495|INFO|6358|<module>|284|rtcpMuxPolicy  :require
+2019-05-24 14:35:00,495|INFO|6358|<module>|285|iceTransportPolicy:relay
+2019-05-24 14:35:00,496|INFO|6358|<module>|286|ip             :129.204.197.215
+2019-05-24 14:35:00,496|INFO|6358|<module>|287|turnPort       :3478
+2019-05-24 14:35:00,496|INFO|6358|<module>|288|stunPort       :3478
+2019-05-24 14:35:00,496|INFO|6358|<module>|289|maxBandwidth   :5120
+2019-05-24 14:35:00,496|INFO|6358|<module>|290|username       :lqf
+2019-05-24 14:35:00,496|INFO|6358|<module>|291|credential     :123456
+2019-05-24 14:35:00,496|INFO|6358|<module>|292|net_card       :eth0
+2019-05-24 14:35:00,496|INFO|6358|<module>|293|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-24 14:35:00,496|INFO|6358|tryRegisterIce|201|tryRegisterIce....
+2019-05-24 14:35:00,500|INFO|6358|tryRegisterIce|210|register ice successful
+2019-05-24 14:35:01,043|INFO|6358|tryRegisterIce|214|sendMail ok
+2019-05-24 14:35:01,043|INFO|6358|tryRegisterIce|235|tryRegisterIce finish.
+2019-05-24 18:37:05,090|INFO|13725|<module>|274|loading config...
+2019-05-24 18:37:05,102|INFO|13725|<module>|282|iceType        :main
+2019-05-24 18:37:05,103|INFO|13725|<module>|283|bundlePolicy   :max-bundle
+2019-05-24 18:37:05,103|INFO|13725|<module>|284|rtcpMuxPolicy  :require
+2019-05-24 18:37:05,103|INFO|13725|<module>|285|iceTransportPolicy:relay
+2019-05-24 18:37:05,103|INFO|13725|<module>|286|ip             :129.204.197.215
+2019-05-24 18:37:05,103|INFO|13725|<module>|287|turnPort       :3478
+2019-05-24 18:37:05,103|INFO|13725|<module>|288|stunPort       :3478
+2019-05-24 18:37:05,103|INFO|13725|<module>|289|maxBandwidth   :5120
+2019-05-24 18:37:05,103|INFO|13725|<module>|290|username       :lqf
+2019-05-24 18:37:05,103|INFO|13725|<module>|291|credential     :123456
+2019-05-24 18:37:05,103|INFO|13725|<module>|292|net_card       :eth0
+2019-05-24 18:37:05,103|INFO|13725|<module>|293|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-24 18:37:05,103|INFO|13725|tryRegisterIce|201|tryRegisterIce....
+2019-05-24 18:37:05,106|INFO|13725|tryRegisterIce|210|register ice successful
+2019-05-24 18:37:05,840|INFO|13725|tryRegisterIce|214|sendMail ok
+2019-05-24 18:37:05,840|INFO|13725|tryRegisterIce|235|tryRegisterIce finish.

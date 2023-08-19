@@ -1,0 +1,51 @@
+2019-06-17 09:25:25,721|ERROR|15484|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-06-17 09:25:25,721|ERROR|15484|reportRxTxRate|267|http failed:[Errno 111] Connection refused
+2019-06-17 11:43:26,345|ERROR|15484|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-06-17 11:43:26,345|ERROR|15484|reportRxTxRate|267|http failed:[Errno 111] Connection refused
+2019-06-17 12:01:07,708|INFO|8232|<module>|278|loading config...
+2019-06-17 12:01:07,733|INFO|8232|<module>|286|iceType        :main
+2019-06-17 12:01:07,734|INFO|8232|<module>|287|bundlePolicy   :max-bundle
+2019-06-17 12:01:07,734|INFO|8232|<module>|288|rtcpMuxPolicy  :require
+2019-06-17 12:01:07,734|INFO|8232|<module>|289|iceTransportPolicy:relay
+2019-06-17 12:01:07,734|INFO|8232|<module>|290|ip             :129.204.197.215
+2019-06-17 12:01:07,734|INFO|8232|<module>|291|turnPort       :3478
+2019-06-17 12:01:07,734|INFO|8232|<module>|292|stunPort       :3478
+2019-06-17 12:01:07,734|INFO|8232|<module>|293|maxBandwidth   :5120
+2019-06-17 12:01:07,734|INFO|8232|<module>|294|username       :lqf
+2019-06-17 12:01:07,734|INFO|8232|<module>|295|credential     :123456
+2019-06-17 12:01:07,734|INFO|8232|<module>|296|net_card       :eth0
+2019-06-17 12:01:07,734|INFO|8232|<module>|297|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-06-17 12:01:07,734|INFO|8232|tryRegisterIce|205|tryRegisterIce....
+2019-06-17 12:01:07,739|INFO|8232|tryRegisterIce|214|register ice successful
+2019-06-17 12:01:08,262|INFO|8232|tryRegisterIce|219|sendMail ok
+2019-06-17 12:01:08,262|INFO|8232|tryRegisterIce|239|tryRegisterIce finish.
+2019-06-17 12:01:08,262|INFO|8232|<module>|316|start report tx rx info....
+2019-06-17 12:01:18,275|INFO|8232|<module>|334|start report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-06-17 12:01:18,736|INFO|8232|<module>|338|sendMail ok
+2019-06-17 16:15:23,481|INFO|8232|tryRegisterIce|205|tryRegisterIce....
+2019-06-17 16:15:23,483|INFO|8232|tryRegisterIce|214|register ice successful
+2019-06-17 16:15:23,483|INFO|8232|tryRegisterIce|239|tryRegisterIce finish.
+2019-06-17 16:15:23,483|ERROR|8232|<module>|346|can't report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-06-17 16:15:24,109|INFO|8232|<module>|350|sendMail ok
+2019-06-17 16:15:34,115|INFO|8232|<module>|334|start report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-06-17 16:15:34,625|INFO|8232|<module>|338|sendMail ok
+2019-06-17 17:40:04,858|INFO|27205|<module>|278|loading config...
+2019-06-17 17:40:04,858|INFO|27205|<module>|286|iceType        :main
+2019-06-17 17:40:04,858|INFO|27205|<module>|287|bundlePolicy   :max-bundle
+2019-06-17 17:40:04,859|INFO|27205|<module>|288|rtcpMuxPolicy  :require
+2019-06-17 17:40:04,859|INFO|27205|<module>|289|iceTransportPolicy:relay
+2019-06-17 17:40:04,859|INFO|27205|<module>|290|ip             :129.204.197.215
+2019-06-17 17:40:04,859|INFO|27205|<module>|291|turnPort       :3478
+2019-06-17 17:40:04,859|INFO|27205|<module>|292|stunPort       :3478
+2019-06-17 17:40:04,859|INFO|27205|<module>|293|maxBandwidth   :5120
+2019-06-17 17:40:04,859|INFO|27205|<module>|294|username       :lqf
+2019-06-17 17:40:04,859|INFO|27205|<module>|295|credential     :123456
+2019-06-17 17:40:04,859|INFO|27205|<module>|296|net_card       :eth0
+2019-06-17 17:40:04,859|INFO|27205|<module>|297|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-06-17 17:40:04,859|INFO|27205|tryRegisterIce|205|tryRegisterIce....
+2019-06-17 17:40:04,862|INFO|27205|tryRegisterIce|214|register ice successful
+2019-06-17 17:40:05,381|INFO|27205|tryRegisterIce|219|sendMail ok
+2019-06-17 17:40:05,381|INFO|27205|tryRegisterIce|239|tryRegisterIce finish.
+2019-06-17 17:40:05,382|INFO|27205|<module>|316|start report tx rx info....
+2019-06-17 17:40:15,394|INFO|27205|<module>|334|start report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-06-17 17:40:15,914|INFO|27205|<module>|338|sendMail ok

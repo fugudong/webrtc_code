@@ -1,0 +1,6 @@
+2019-07-17 15:55:56,849|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-17 15:55:56,888|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-17 15:55:56,888|ERROR|6573|<module>|346|can't report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-07-17 15:55:57,587|INFO|6573|<module>|350|sendMail ok
+2019-07-17 15:56:07,595|INFO|6573|<module>|334|start report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-07-17 15:56:08,252|INFO|6573|<module>|338|sendMail ok

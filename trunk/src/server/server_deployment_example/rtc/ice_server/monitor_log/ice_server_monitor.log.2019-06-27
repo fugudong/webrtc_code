@@ -1,0 +1,34 @@
+2019-06-27 13:43:04,529|INFO|2784|<module>|219|loading config...
+2019-06-27 13:43:04,546|INFO|2784|<module>|232|start monitoring...
+2019-06-27 13:43:05,585|INFO|2784|monitorProcess|153|ice_server is not alive
+2019-06-27 13:43:05,587|INFO|2784|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-06-27 13:43:07,604|INFO|2784|monitorProcess|158|start ice_server succeed
+2019-06-27 13:43:08,109|INFO|2784|monitorProcess|153|ice_net_monitor is not alive
+2019-06-27 13:43:08,113|INFO|2784|startProcess|42|system cmd /usr/bin/python ice_net_monitor.py & ret:0
+2019-06-27 13:43:10,129|INFO|2784|monitorProcess|158|start ice_net_monitor succeed
+2019-06-27 13:47:02,798|INFO|4504|<module>|219|loading config...
+2019-06-27 13:47:02,807|INFO|4504|<module>|232|start monitoring...
+2019-06-27 13:47:03,532|INFO|4504|monitorProcess|153|ice_server is not alive
+2019-06-27 13:47:03,535|INFO|4504|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-06-27 13:47:05,551|INFO|4504|monitorProcess|158|start ice_server succeed
+2019-06-27 13:47:06,020|INFO|4504|monitorProcess|153|ice_net_monitor is not alive
+2019-06-27 13:47:06,023|INFO|4504|startProcess|42|system cmd /usr/bin/python ice_net_monitor.py & ret:0
+2019-06-27 13:47:09,443|INFO|4504|monitorProcess|158|start ice_net_monitor succeed
+2019-06-27 17:24:21,409|INFO|4504|monitorProcess|153|ice_server is not alive
+2019-06-27 17:24:21,411|INFO|4504|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-06-27 17:24:23,433|INFO|4504|monitorProcess|158|start ice_server succeed
+2019-06-27 17:33:23,743|INFO|4504|monitorProcess|153|ice_server is not alive
+2019-06-27 17:33:23,746|INFO|4504|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-06-27 17:33:25,768|INFO|4504|monitorProcess|158|start ice_server succeed
+2019-06-27 17:39:54,631|INFO|4504|monitorProcess|153|ice_server is not alive
+2019-06-27 17:39:54,634|INFO|4504|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-06-27 17:39:56,653|INFO|4504|monitorProcess|158|start ice_server succeed
+2019-06-27 17:43:23,725|INFO|4504|monitorProcess|153|ice_server is not alive
+2019-06-27 17:43:23,727|INFO|4504|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-06-27 17:43:25,746|INFO|4504|monitorProcess|158|start ice_server succeed
+2019-06-27 18:01:24,350|INFO|4504|monitorProcess|153|ice_server is not alive
+2019-06-27 18:01:24,353|INFO|4504|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-06-27 18:01:26,372|INFO|4504|monitorProcess|158|start ice_server succeed
+2019-06-27 18:32:01,098|INFO|4504|monitorProcess|153|ice_server is not alive
+2019-06-27 18:32:01,101|INFO|4504|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-06-27 18:32:03,125|INFO|4504|monitorProcess|158|start ice_server succeed

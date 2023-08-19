@@ -1,0 +1,2 @@
+include ':app', ':lib0voicertc', ':libwebrtc'
+//project(':libwebrtc').projectDir = new File('D:/github/apprtc1/libwebrtc')

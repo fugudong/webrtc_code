@@ -1,0 +1,12 @@
+2019-06-18 09:01:08,592|ERROR|27205|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-06-18 09:01:08,593|ERROR|27205|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-06-18 09:01:08,593|ERROR|27205|<module>|346|can't report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-06-18 09:01:09,995|INFO|27205|<module>|350|sendMail ok
+2019-06-18 09:01:20,003|INFO|27205|<module>|334|start report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-06-18 09:01:20,544|INFO|27205|<module>|338|sendMail ok
+2019-06-18 13:50:07,775|ERROR|27205|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-06-18 13:50:07,775|ERROR|27205|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-06-18 13:50:07,775|ERROR|27205|<module>|346|can't report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-06-18 13:50:08,506|INFO|27205|<module>|350|sendMail ok
+2019-06-18 13:50:18,513|INFO|27205|<module>|334|start report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-06-18 13:50:19,019|INFO|27205|<module>|338|sendMail ok

@@ -1,0 +1,516 @@
+2019-05-29 09:30:05,588|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 09:30:05,588|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 10:17:29,435|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 10:17:29,435|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 10:17:34,439|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 10:17:34,439|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 10:17:39,445|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 10:17:39,445|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 10:17:44,452|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 10:17:44,452|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 10:17:49,458|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 10:17:49,459|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 10:17:54,465|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 10:17:54,465|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 10:17:59,472|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 10:17:59,472|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 10:18:04,478|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 10:18:04,478|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:30:57,889|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:30:57,900|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:02,907|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:02,907|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:07,914|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:07,914|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:12,920|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:12,920|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:17,926|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:17,927|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:22,933|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:22,933|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:27,940|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:27,940|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:32,946|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:32,946|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:37,953|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:37,954|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:42,960|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:42,960|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:47,966|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:47,966|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:52,972|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:52,972|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:31:57,976|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:31:57,976|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:02,980|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:02,981|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:07,987|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:07,987|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:12,991|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:12,992|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:17,993|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:17,993|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:23,001|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:23,001|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:28,007|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:28,008|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:33,011|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:33,011|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:38,018|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:38,018|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:43,022|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:43,022|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:48,026|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:48,026|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:53,032|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:53,033|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:32:58,039|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:32:58,039|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:33:03,045|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:33:03,045|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:33:08,051|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:33:08,051|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:33:13,057|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:33:13,057|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:33:18,063|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:33:18,063|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:33:23,066|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:33:23,066|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:33:28,070|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:33:28,070|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:33:33,072|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:33:33,073|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:33:38,078|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:33:38,078|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:33:43,084|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:33:43,084|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:33:48,091|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:33:48,091|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:35:18,206|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:35:18,206|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:35:23,212|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:35:23,212|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:35:28,219|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:35:28,219|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:35:33,222|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:35:33,222|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:35:38,228|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:35:38,229|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:35:43,235|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:35:43,235|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:35:48,241|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:35:48,242|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:35:53,255|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:35:53,256|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:35:58,260|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:35:58,261|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:03,267|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:03,267|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:08,274|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:08,274|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:13,279|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:13,279|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:18,285|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:18,285|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:23,292|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:23,292|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:28,298|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:28,299|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:33,305|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:33,305|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:38,312|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:38,312|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:43,319|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:43,319|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:48,321|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:48,322|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:53,328|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:53,328|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:36:58,335|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:36:58,335|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:03,341|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:03,341|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:08,348|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:08,348|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:13,351|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:13,351|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:18,356|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:18,356|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:23,362|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:23,363|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:28,369|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:28,369|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:33,371|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:33,371|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:38,378|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:38,378|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:43,384|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:43,384|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:48,391|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:48,391|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:53,398|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:53,398|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:37:58,404|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:37:58,405|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:03,413|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:03,413|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:08,416|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:08,416|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:13,421|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:13,421|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:18,428|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:18,428|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:23,435|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:23,435|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:28,439|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:28,439|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:33,445|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:33,446|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:38,451|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:38,451|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:43,456|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:43,457|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:48,463|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:48,463|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:53,470|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:53,470|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:38:58,476|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:38:58,476|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:03,478|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:03,478|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:08,481|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:08,482|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:13,488|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:13,488|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:18,495|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:18,495|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:23,501|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:23,502|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:28,508|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:28,508|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:33,514|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:33,515|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:38,518|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:38,518|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:43,524|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:43,524|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:48,527|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:48,527|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:53,533|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:53,534|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:39:58,538|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:39:58,539|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:03,545|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:03,545|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:08,552|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:08,552|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:13,554|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:13,554|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:18,560|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:18,561|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:18,561|ERROR|13725|<module>|332|can't report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-05-29 18:40:20,349|INFO|12523|<module>|274|loading config...
+2019-05-29 18:40:20,352|INFO|12523|<module>|282|iceType        :main
+2019-05-29 18:40:20,352|INFO|12523|<module>|283|bundlePolicy   :max-bundle
+2019-05-29 18:40:20,352|INFO|12523|<module>|284|rtcpMuxPolicy  :require
+2019-05-29 18:40:20,352|INFO|12523|<module>|285|iceTransportPolicy:relay
+2019-05-29 18:40:20,352|INFO|12523|<module>|286|ip             :129.204.197.215
+2019-05-29 18:40:20,352|INFO|12523|<module>|287|turnPort       :3478
+2019-05-29 18:40:20,352|INFO|12523|<module>|288|stunPort       :3478
+2019-05-29 18:40:20,352|INFO|12523|<module>|289|maxBandwidth   :5120
+2019-05-29 18:40:20,352|INFO|12523|<module>|290|username       :lqf
+2019-05-29 18:40:20,353|INFO|12523|<module>|291|credential     :123456
+2019-05-29 18:40:20,353|INFO|12523|<module>|292|net_card       :eth0
+2019-05-29 18:40:20,353|INFO|12523|<module>|293|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-29 18:40:20,353|INFO|12523|tryRegisterIce|201|tryRegisterIce....
+2019-05-29 18:40:20,355|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:20,355|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:20,355|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:40:25,360|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:25,360|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:25,360|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:40:30,366|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:30,366|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:30,367|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:40:35,373|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:35,373|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:35,373|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:40:40,376|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:40,376|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:40,376|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:40:45,383|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:45,383|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:45,383|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:40:50,389|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:50,390|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:50,390|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:40:55,396|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:40:55,396|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:40:55,396|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:00,403|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:00,403|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:00,403|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:05,409|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:05,409|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:05,409|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:10,415|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:10,415|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:10,415|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:15,422|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:15,422|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:15,422|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:20,428|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:20,429|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:20,429|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:25,435|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:25,435|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:25,435|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:30,441|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:30,441|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:30,441|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:35,447|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:35,447|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:35,447|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:40,454|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:40,454|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:40,454|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:45,460|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:45,460|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:45,461|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:50,467|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:50,467|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:50,467|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:41:55,474|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:41:55,474|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:41:55,474|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:00,476|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:00,476|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:00,476|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:05,482|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:05,483|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:05,483|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:10,489|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:10,489|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:10,489|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:15,496|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:15,496|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:15,496|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:20,502|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:20,503|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:20,503|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:25,504|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:25,504|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:25,504|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:30,511|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:30,511|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:30,511|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:35,516|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:35,517|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:35,517|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:40,523|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:40,523|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:40,523|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:45,530|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:45,530|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:45,530|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:50,536|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:50,537|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:50,537|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:42:55,543|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:42:55,543|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:42:55,543|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:00,550|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:00,550|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:00,550|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:05,557|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:05,557|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:05,557|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:10,564|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:10,564|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:10,564|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:15,570|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:15,571|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:15,571|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:20,574|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:20,574|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:20,574|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:25,580|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:25,581|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:25,581|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:30,586|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:30,586|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:30,586|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:35,592|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:35,592|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:35,592|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:40,598|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:40,598|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:40,598|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:45,604|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:45,604|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:45,605|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:50,610|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:50,611|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:50,611|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:43:55,616|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:43:55,616|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:43:55,616|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:00,623|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:00,623|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:00,623|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:05,626|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:05,626|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:05,626|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:10,632|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:10,632|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:10,632|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:15,639|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:15,639|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:15,639|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:20,645|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:20,645|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:20,645|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:25,652|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:25,652|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:25,652|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:30,658|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:30,659|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:30,659|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:35,664|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:35,665|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:35,665|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:40,670|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:40,671|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:40,671|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:45,677|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:45,677|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:45,677|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:50,683|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:50,683|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:50,683|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:44:55,689|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:44:55,690|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:44:55,690|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:45:00,696|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:45:00,696|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:45:00,696|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:45:05,700|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:45:05,700|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:45:05,701|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:45:10,708|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:45:10,708|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:45:10,708|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:45:15,710|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:45:15,710|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:45:15,711|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:45:20,717|ERROR|12523|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 18:45:20,717|ERROR|12523|registerIce|197|http failed:[Errno 111] Connection refused
+2019-05-29 18:45:20,717|INFO|12523|tryRegisterIce|220|wait 5 sec, continue try register....
+2019-05-29 18:45:25,722|ERROR|12523|tryRegisterIce|227|can't register http://129.204.197.215:9000/icebandwidthload
+2019-05-29 20:53:08,725|INFO|13512|<module>|274|loading config...
+2019-05-29 20:53:08,726|INFO|13512|<module>|282|iceType        :main
+2019-05-29 20:53:08,726|INFO|13512|<module>|283|bundlePolicy   :max-bundle
+2019-05-29 20:53:08,726|INFO|13512|<module>|284|rtcpMuxPolicy  :require
+2019-05-29 20:53:08,726|INFO|13512|<module>|285|iceTransportPolicy:relay
+2019-05-29 20:53:08,726|INFO|13512|<module>|286|ip             :129.204.197.215
+2019-05-29 20:53:08,726|INFO|13512|<module>|287|turnPort       :3478
+2019-05-29 20:53:08,726|INFO|13512|<module>|288|stunPort       :3478
+2019-05-29 20:53:08,726|INFO|13512|<module>|289|maxBandwidth   :5120
+2019-05-29 20:53:08,726|INFO|13512|<module>|290|username       :lqf
+2019-05-29 20:53:08,726|INFO|13512|<module>|291|credential     :123456
+2019-05-29 20:53:08,726|INFO|13512|<module>|292|net_card       :eth0
+2019-05-29 20:53:08,726|INFO|13512|<module>|293|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-29 20:53:08,727|INFO|13512|tryRegisterIce|201|tryRegisterIce....
+2019-05-29 20:53:08,729|INFO|13512|tryRegisterIce|210|register ice successful
+2019-05-29 22:00:59,478|INFO|14244|<module>|278|loading config...
+2019-05-29 22:00:59,560|INFO|14244|<module>|286|iceType        :main
+2019-05-29 22:00:59,561|INFO|14244|<module>|287|bundlePolicy   :max-bundle
+2019-05-29 22:00:59,561|INFO|14244|<module>|288|rtcpMuxPolicy  :require
+2019-05-29 22:00:59,561|INFO|14244|<module>|289|iceTransportPolicy:relay
+2019-05-29 22:00:59,561|INFO|14244|<module>|290|ip             :129.204.197.215
+2019-05-29 22:00:59,561|INFO|14244|<module>|291|turnPort       :3478
+2019-05-29 22:00:59,561|INFO|14244|<module>|292|stunPort       :3478
+2019-05-29 22:00:59,561|INFO|14244|<module>|293|maxBandwidth   :5120
+2019-05-29 22:00:59,561|INFO|14244|<module>|294|username       :lqf
+2019-05-29 22:00:59,561|INFO|14244|<module>|295|credential     :123456
+2019-05-29 22:00:59,561|INFO|14244|<module>|296|net_card       :eth0
+2019-05-29 22:00:59,561|INFO|14244|<module>|297|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-29 22:00:59,561|INFO|14244|tryRegisterIce|205|tryRegisterIce....
+2019-05-29 22:00:59,563|ERROR|14244|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 22:00:59,563|ERROR|14244|registerIce|201|http failed:[Errno 111] Connection refused
+2019-05-29 22:00:59,564|INFO|14244|tryRegisterIce|224|wait 5 sec, continue try register....
+2019-05-29 22:01:04,570|ERROR|14244|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 22:01:04,570|ERROR|14244|registerIce|201|http failed:[Errno 111] Connection refused
+2019-05-29 22:01:04,570|INFO|14244|tryRegisterIce|224|wait 5 sec, continue try register....
+2019-05-29 22:11:42,392|INFO|13643|<module>|278|loading config...
+2019-05-29 22:11:42,425|INFO|13643|<module>|286|iceType        :main
+2019-05-29 22:11:42,425|INFO|13643|<module>|287|bundlePolicy   :max-bundle
+2019-05-29 22:11:42,425|INFO|13643|<module>|288|rtcpMuxPolicy  :require
+2019-05-29 22:11:42,425|INFO|13643|<module>|289|iceTransportPolicy:relay
+2019-05-29 22:11:42,425|INFO|13643|<module>|290|ip             :129.204.197.215
+2019-05-29 22:11:42,425|INFO|13643|<module>|291|turnPort       :3478
+2019-05-29 22:11:42,425|INFO|13643|<module>|292|stunPort       :3478
+2019-05-29 22:11:42,425|INFO|13643|<module>|293|maxBandwidth   :5120
+2019-05-29 22:11:42,425|INFO|13643|<module>|294|username       :lqf
+2019-05-29 22:11:42,425|INFO|13643|<module>|295|credential     :123456
+2019-05-29 22:11:42,425|INFO|13643|<module>|296|net_card       :eth0
+2019-05-29 22:11:42,426|INFO|13643|<module>|297|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-29 22:11:42,426|INFO|13643|tryRegisterIce|205|tryRegisterIce....
+2019-05-29 22:11:42,427|ERROR|13643|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 22:11:42,428|ERROR|13643|registerIce|201|http failed:[Errno 111] Connection refused
+2019-05-29 22:11:42,428|INFO|13643|tryRegisterIce|224|wait 5 sec, continue try register....
+2019-05-29 22:11:47,434|ERROR|13643|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-29 22:11:47,434|ERROR|13643|registerIce|201|http failed:[Errno 111] Connection refused
+2019-05-29 22:11:47,434|INFO|13643|tryRegisterIce|224|wait 5 sec, continue try register....
+2019-05-29 22:23:13,250|INFO|14931|<module>|278|loading config...
+2019-05-29 22:23:13,251|INFO|14931|<module>|286|iceType        :main
+2019-05-29 22:23:13,251|INFO|14931|<module>|287|bundlePolicy   :max-bundle
+2019-05-29 22:23:13,251|INFO|14931|<module>|288|rtcpMuxPolicy  :require
+2019-05-29 22:23:13,251|INFO|14931|<module>|289|iceTransportPolicy:relay
+2019-05-29 22:23:13,251|INFO|14931|<module>|290|ip             :129.204.197.215
+2019-05-29 22:23:13,251|INFO|14931|<module>|291|turnPort       :3478
+2019-05-29 22:23:13,251|INFO|14931|<module>|292|stunPort       :3478
+2019-05-29 22:23:13,251|INFO|14931|<module>|293|maxBandwidth   :5120
+2019-05-29 22:23:13,251|INFO|14931|<module>|294|username       :lqf
+2019-05-29 22:23:13,251|INFO|14931|<module>|295|credential     :123456
+2019-05-29 22:23:13,251|INFO|14931|<module>|296|net_card       :eth0
+2019-05-29 22:23:13,251|INFO|14931|<module>|297|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-29 22:23:13,251|INFO|14931|tryRegisterIce|205|tryRegisterIce....
+2019-05-29 22:23:13,255|INFO|14931|tryRegisterIce|214|register ice successful
+2019-05-29 22:23:13,306|ERROR|14931|sendMail|166|[Errno 111] Connection refused
+2019-05-29 22:24:21,209|INFO|15040|<module>|277|loading config...
+2019-05-29 22:24:21,209|INFO|15040|<module>|285|iceType        :main
+2019-05-29 22:24:21,210|INFO|15040|<module>|286|bundlePolicy   :max-bundle
+2019-05-29 22:24:21,210|INFO|15040|<module>|287|rtcpMuxPolicy  :require
+2019-05-29 22:24:21,210|INFO|15040|<module>|288|iceTransportPolicy:relay
+2019-05-29 22:24:21,210|INFO|15040|<module>|289|ip             :129.204.197.215
+2019-05-29 22:24:21,210|INFO|15040|<module>|290|turnPort       :3478
+2019-05-29 22:24:21,210|INFO|15040|<module>|291|stunPort       :3478
+2019-05-29 22:24:21,210|INFO|15040|<module>|292|maxBandwidth   :5120
+2019-05-29 22:24:21,210|INFO|15040|<module>|293|username       :lqf
+2019-05-29 22:24:21,211|INFO|15040|<module>|294|credential     :123456
+2019-05-29 22:24:21,211|INFO|15040|<module>|295|net_card       :eth0
+2019-05-29 22:24:21,211|INFO|15040|<module>|296|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-29 22:24:21,211|INFO|15040|tryRegisterIce|204|tryRegisterIce....
+2019-05-29 22:24:21,215|INFO|15040|tryRegisterIce|213|register ice successful
+2019-05-29 22:24:21,263|ERROR|15040|sendMail|166|[Errno 111] Connection refused
+2019-05-29 22:24:21,263|INFO|15040|tryRegisterIce|217|sendMail ok
+2019-05-29 22:24:21,263|INFO|15040|tryRegisterIce|238|tryRegisterIce finish.
+2019-05-29 22:28:04,429|INFO|15484|<module>|277|loading config...
+2019-05-29 22:28:04,430|INFO|15484|<module>|285|iceType        :main
+2019-05-29 22:28:04,430|INFO|15484|<module>|286|bundlePolicy   :max-bundle
+2019-05-29 22:28:04,430|INFO|15484|<module>|287|rtcpMuxPolicy  :require
+2019-05-29 22:28:04,430|INFO|15484|<module>|288|iceTransportPolicy:relay
+2019-05-29 22:28:04,430|INFO|15484|<module>|289|ip             :129.204.197.215
+2019-05-29 22:28:04,430|INFO|15484|<module>|290|turnPort       :3478
+2019-05-29 22:28:04,430|INFO|15484|<module>|291|stunPort       :3478
+2019-05-29 22:28:04,431|INFO|15484|<module>|292|maxBandwidth   :5120
+2019-05-29 22:28:04,431|INFO|15484|<module>|293|username       :lqf
+2019-05-29 22:28:04,431|INFO|15484|<module>|294|credential     :123456
+2019-05-29 22:28:04,431|INFO|15484|<module>|295|net_card       :eth0
+2019-05-29 22:28:04,431|INFO|15484|<module>|296|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-05-29 22:28:04,431|INFO|15484|tryRegisterIce|204|tryRegisterIce....
+2019-05-29 22:28:04,437|INFO|15484|tryRegisterIce|213|register ice successful
+2019-05-29 22:28:04,536|ERROR|15484|sendMail|166|[Errno 111] Connection refused
+2019-05-29 22:28:04,536|INFO|15484|tryRegisterIce|217|sendMail ok
+2019-05-29 22:28:04,536|INFO|15484|tryRegisterIce|238|tryRegisterIce finish.

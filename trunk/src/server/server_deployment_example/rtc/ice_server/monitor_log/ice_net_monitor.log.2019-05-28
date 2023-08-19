@@ -1,0 +1,2 @@
+2019-05-28 17:37:43,924|ERROR|13725|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-28 17:37:43,944|ERROR|13725|reportRxTxRate|264|http failed:[Errno 111] Connection refused

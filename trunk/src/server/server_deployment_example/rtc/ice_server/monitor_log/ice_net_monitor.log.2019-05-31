@@ -1,0 +1,6 @@
+2019-05-31 11:10:26,601|ERROR|15484|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-31 11:10:26,632|ERROR|15484|reportRxTxRate|267|http failed:[Errno 111] Connection refused
+2019-05-31 11:22:12,611|ERROR|15484|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-31 11:22:12,611|ERROR|15484|reportRxTxRate|267|http failed:[Errno 111] Connection refused
+2019-05-31 14:03:20,592|ERROR|15484|sendHttpGetReq|94|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-05-31 14:03:20,593|ERROR|15484|reportRxTxRate|267|http failed:[Errno 111] Connection refused

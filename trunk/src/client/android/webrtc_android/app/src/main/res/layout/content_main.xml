@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.darren.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+
+    <EditText
+        android:id="@+id/et_signal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="server地址(wss://)" />
+    <TextView
+        android:id="@+id/app_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="零声学院音视频通话项目"
+        android:textSize="20sp"
+        android:background="#FFC107"
+        android:paddingTop="5sp"
+        android:paddingBottom="10sp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp">
+        <EditText
+            android:id="@+id/et_username"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:hint="用户名(android)" />
+        <Button
+            android:id="@+id/btnRandomUser"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:onClick="RandomUser"
+            android:text="随机用户名"
+            android:background="@drawable/btn_random_st"
+            android:layout_marginLeft="30dp"
+            android:layout_weight="1"
+            tools:ignore="OnClick" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp">
+        <EditText
+            android:id="@+id/et_room"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:hint="房间号(123456)" />
+        <Button
+            android:id="@+id/btnRandomRoom"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:onClick="RandomRoom"
+            android:text="随机房间"
+            android:background="@drawable/btn_random_st"
+            android:layout_marginLeft="30dp"
+            android:layout_weight="1"
+            tools:ignore="OnClick" />
+   </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+        <Button
+            android:id="@+id/btnMultiVideo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:onClick="JoinVideoRoom"
+            android:text="多方视频通话"
+            android:background="@drawable/btn_multi_st"
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+            tools:ignore="OnClick" />
+
+        <Button
+            android:id="@+id/btnMultiAudio"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:onClick="JoinAudioRoom"
+            android:text="多方音频通话"
+            android:background="@drawable/btn_multi_st"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            tools:ignore="OnClick" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp">
+    <Button
+        android:id="@+id/btnSingleVideo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="JoinSingleVideoRoom"
+        android:text="一对一视频通话"
+        android:background="@drawable/btn_single_st"
+        android:layout_weight="1"
+        android:layout_marginRight="10dp"
+        tools:ignore="OnClick" />
+
+    <Button
+        android:id="@+id/btnSingleAudio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="JoinSingleAudioRoom"
+        android:text="一对一音频通话"
+        android:background="@drawable/btn_single_st"
+        android:layout_weight="1"
+        android:layout_marginLeft="10dp"
+        tools:ignore="OnClick" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#4DD0E1">
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="零声学院专注C/C++/GO中高端培训"
+        android:textSize="18sp"
+        android:textColor="#FF0000"
+        android:paddingTop="5sp"
+        android:paddingBottom="5dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="https://0voice.ke.qq.com"
+            android:autoLink="web"
+            android:textSize="16sp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Linux服务器开发群:762073882\n音视频开发群:782508536"
+            android:textSize="16sp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp" />
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:gravity="left"
+        android:text="课程1: Linux后台开发架构师\n课程2: 5G音视频高级开发\n课程3:大学生春招秋招 Linux C/C++开发"
+        android:textColor="#FF5722"
+        android:textSize="15sp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp" />
+
+    </LinearLayout>
+</LinearLayout>

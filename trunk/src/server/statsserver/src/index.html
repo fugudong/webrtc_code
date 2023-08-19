@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<title>{{.DailyTalkReport.Title}} </title>
+<head></head>
+<body>
+<br></br>
+<h2 align=center>{{.DailyTalkReport.Title}}</h2>
+<table width="90%" align=center border="0" bgcolor="#666666" cellpadding="2">
+    <tr bgcolor="#DDDDDD">
+        <th>用户名</th>
+        <th>类型</th>
+        <th>时间</th>
+        <th>时长</th>
+        <th>状态</th>
+        <th>连接</th>
+        <th>用户国家+IP<br>ICE国家+IP</th>
+        <th>码率kbps<br>avg,min,max</th>
+        <th>丢包率<br>avg,min,max</th>
+        <th>OS浏览器</th>
+    </tr>
+    {{range .DailyTalkReport.TalkReport}}
+        <tr align=center bgcolor="#FFFFFF">
+            <td><font size="3" color="#33CC00">{{.UserName}}</font></td>
+            <td><font size="3" color="#33CC00">{{.TalkType}}</font></td>
+            <td><font size="3" color="#33CC00">{{.BeginTime}}</font></td>
+            <td><font size="3" color="#33CC00">{{.Duration}}</font></td>
+            <td><font size="3" color="#33CC00">{{.Status}}</font></td>
+            <td><font size="3" color="#33CC00">{{.ConnectType}}</font></td>
+            <td><font size="3" color="#33CC00">{{.UserCountryIp}}<br>{{.IceCountryIp}}</font></td>
+            <td><font size="3" color="#33CC00">{{.AudAvgMaxMinBitRate}}<br>{{.VidAvgMaxMinBitRate}}</font></td>
+            <td><font size="3" color="#33CC00">{{.AudAvgMaxMinLostRate}}<br>{{.VidAvgMaxMinLostRate}}</font></td>
+            <td><font size="3" color="#33CC00">{{.Browser}}</font></td>
+        </tr>
+    {{end}}
+</table>
+
+
+</body>
+</html>

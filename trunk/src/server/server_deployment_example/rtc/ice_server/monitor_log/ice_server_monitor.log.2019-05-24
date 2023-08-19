@@ -1,0 +1,36 @@
+2019-05-24 11:53:03,191|INFO|12840|<module>|144|loading config...
+2019-05-24 11:53:03,200|INFO|12840|<module>|157|start monitoring...
+2019-05-24 11:53:03,217|INFO|12840|monitorProcess|82|ice_server is not alive
+2019-05-24 11:53:03,221|INFO|12840|startProcess|35|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-05-24 11:53:05,236|INFO|12840|monitorProcess|87|start ice_server succeed
+2019-05-24 11:53:05,236|INFO|12840|reportError|61|report url:http://184.173.216.6:8094/sendmail?sender=webim@maoyt.com&password=s9fE%248%2Aetc2m%23di0&receiver=liaoqingfu@maoyt.com&mode=process_monitor&descr=ice_server%20died%2C%20restart%20ok&address=129.207.197.215&title=ice_server%E8%BF%9B%E7%A8%8B%E7%9B%91%E6%8E%A7%E5%BC%82%E5%B8%B8
+2019-05-24 11:53:05,619|INFO|12840|reportError|64|report succeed
+2019-05-24 11:53:05,638|INFO|12840|monitorProcess|82|ice_net_monitor is not alive
+2019-05-24 11:53:05,641|INFO|12840|startProcess|35|system cmd /usr/bin/python ice_net_monitor.py & ret:0
+2019-05-24 11:53:07,659|INFO|12840|monitorProcess|87|start ice_net_monitor succeed
+2019-05-24 11:53:07,659|INFO|12840|reportError|61|report url:http://184.173.216.6:8094/sendmail?sender=webim@maoyt.com&password=s9fE%248%2Aetc2m%23di0&receiver=liaoqingfu@maoyt.com&mode=process_monitor&descr=ice_net_monitor%20died%2C%20restart%20ok&address=129.207.197.215&title=ice_net_monitor%E8%BF%9B%E7%A8%8B%E7%9B%91%E6%8E%A7%E5%BC%82%E5%B8%B8
+2019-05-24 11:53:08,039|INFO|12840|reportError|64|report succeed
+2019-05-24 14:03:41,649|INFO|12840|monitorProcess|82|ice_net_monitor is not alive
+2019-05-24 14:03:41,651|INFO|12840|startProcess|35|system cmd /usr/bin/python ice_net_monitor.py & ret:0
+2019-05-24 14:03:43,671|INFO|12840|monitorProcess|87|start ice_net_monitor succeed
+2019-05-24 14:03:43,671|INFO|12840|reportError|61|report url:http://184.173.216.6:8094/sendmail?sender=webim@maoyt.com&password=s9fE%248%2Aetc2m%23di0&receiver=liaoqingfu@maoyt.com&mode=process_monitor&descr=ice_net_monitor%20died%2C%20restart%20ok&address=129.207.197.215&title=ice_net_monitor%E8%BF%9B%E7%A8%8B%E7%9B%91%E6%8E%A7%E5%BC%82%E5%B8%B8
+2019-05-24 14:03:44,055|INFO|12840|reportError|64|report succeed
+2019-05-24 14:29:01,930|INFO|4590|<module>|216|loading config...
+2019-05-24 14:29:01,931|INFO|4590|<module>|229|start monitoring...
+2019-05-24 14:29:02,550|INFO|4590|monitorProcess|150|ice_server is not alive
+2019-05-24 14:34:01,738|INFO|5994|<module>|216|loading config...
+2019-05-24 14:34:01,739|INFO|5994|<module>|229|start monitoring...
+2019-05-24 14:34:02,376|INFO|5994|monitorProcess|150|ice_net_monitor is not alive
+2019-05-24 14:34:02,378|INFO|5994|startProcess|42|system cmd /usr/bin/python ice_net_monitor.py & ret:0
+2019-05-24 14:34:04,395|INFO|5994|monitorProcess|155|start ice_net_monitor succeed
+2019-05-24 14:35:00,409|INFO|5994|monitorProcess|150|ice_net_monitor is not alive
+2019-05-24 14:35:00,412|INFO|5994|startProcess|42|system cmd /usr/bin/python ice_net_monitor.py & ret:0
+2019-05-24 14:35:02,440|INFO|5994|monitorProcess|155|start ice_net_monitor succeed
+2019-05-24 18:37:01,866|INFO|13640|<module>|216|loading config...
+2019-05-24 18:37:01,899|INFO|13640|<module>|229|start monitoring...
+2019-05-24 18:37:02,483|INFO|13640|monitorProcess|150|ice_server is not alive
+2019-05-24 18:37:02,486|INFO|13640|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-05-24 18:37:04,503|INFO|13640|monitorProcess|155|start ice_server succeed
+2019-05-24 18:37:04,975|INFO|13640|monitorProcess|150|ice_net_monitor is not alive
+2019-05-24 18:37:04,977|INFO|13640|startProcess|42|system cmd /usr/bin/python ice_net_monitor.py & ret:0
+2019-05-24 18:37:06,995|INFO|13640|monitorProcess|155|start ice_net_monitor succeed

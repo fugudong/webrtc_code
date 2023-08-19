@@ -1,0 +1,42 @@
+2019-07-11 17:26:58,396|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:26:58,539|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:26:58,539|ERROR|6573|<module>|346|can't report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-07-11 17:26:59,409|INFO|6573|<module>|350|sendMail ok
+2019-07-11 17:27:09,419|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:27:09,419|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:27:19,431|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:27:19,431|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:27:29,439|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:27:29,439|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:27:39,444|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:27:39,444|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:27:49,456|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:27:49,456|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:27:59,463|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:27:59,463|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:28:09,474|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:28:09,474|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:28:19,485|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:28:19,485|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:28:29,487|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:28:29,488|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:28:39,493|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:28:39,493|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:28:49,503|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:28:49,503|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:28:59,515|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:28:59,515|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:29:09,524|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:29:09,524|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:29:19,534|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:29:19,534|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:29:29,543|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:29:29,543|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:29:39,554|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:29:39,554|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:29:49,559|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:29:49,559|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:29:59,568|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-11 17:29:59,569|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-11 17:30:09,581|INFO|6573|<module>|334|start report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-07-11 17:30:10,079|INFO|6573|<module>|338|sendMail ok

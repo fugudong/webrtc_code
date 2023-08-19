@@ -1,0 +1,11 @@
+2019-06-26 10:08:03,448|INFO|8411|<module>|219|loading config...
+2019-06-26 10:08:03,864|INFO|8411|<module>|232|start monitoring...
+2019-06-26 10:08:04,514|INFO|8411|monitorProcess|153|ice_server is not alive
+2019-06-26 10:08:04,521|INFO|8411|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-06-26 10:08:06,561|INFO|8411|monitorProcess|158|start ice_server succeed
+2019-06-26 10:08:07,104|INFO|8411|monitorProcess|153|ice_net_monitor is not alive
+2019-06-26 10:08:07,106|INFO|8411|startProcess|42|system cmd /usr/bin/python ice_net_monitor.py & ret:0
+2019-06-26 10:08:09,136|INFO|8411|monitorProcess|158|start ice_net_monitor succeed
+2019-06-26 15:27:21,507|INFO|8411|monitorProcess|153|ice_server is not alive
+2019-06-26 15:27:21,512|INFO|8411|startProcess|42|system cmd /usr/local/bin/turnserver -L 0.0.0.0 -a -u lqf:123456 -v -f -r nort.gov & ret:0
+2019-06-26 15:27:23,533|INFO|8411|monitorProcess|158|start ice_server succeed

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">零声RTC</string>
+    <string name="action_settings">Settings</string>
+    <drawable name="color_random_normal">#CDDC39</drawable>
+    <drawable name="color_random_press">#E6EE9C</drawable>
+    <drawable name="color_multi_normal">#03A9F4</drawable>
+    <drawable name="color_multi_press">#4FC3F7</drawable>
+    <drawable name="color_single_normal">#FF9800</drawable>
+    <drawable name="color_single_press">#FFCC80</drawable>
+    <drawable name="color2">#fff</drawable>
+</resources>

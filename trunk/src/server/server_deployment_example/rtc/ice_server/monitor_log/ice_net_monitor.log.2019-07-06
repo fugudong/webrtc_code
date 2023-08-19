@@ -1,0 +1,26 @@
+2019-07-06 15:00:08,641|INFO|6573|<module>|278|loading config...
+2019-07-06 15:00:08,699|INFO|6573|<module>|286|iceType        :main
+2019-07-06 15:00:08,699|INFO|6573|<module>|287|bundlePolicy   :max-bundle
+2019-07-06 15:00:08,699|INFO|6573|<module>|288|rtcpMuxPolicy  :require
+2019-07-06 15:00:08,700|INFO|6573|<module>|289|iceTransportPolicy:all
+2019-07-06 15:00:08,700|INFO|6573|<module>|290|ip             :129.204.197.215
+2019-07-06 15:00:08,700|INFO|6573|<module>|291|turnPort       :3478
+2019-07-06 15:00:08,700|INFO|6573|<module>|292|stunPort       :3478
+2019-07-06 15:00:08,700|INFO|6573|<module>|293|maxBandwidth   :5120
+2019-07-06 15:00:08,701|INFO|6573|<module>|294|username       :lqf
+2019-07-06 15:00:08,701|INFO|6573|<module>|295|credential     :123456
+2019-07-06 15:00:08,701|INFO|6573|<module>|296|net_card       :eth0
+2019-07-06 15:00:08,701|INFO|6573|<module>|297|roomserverUrl  :http://129.204.197.215:9000/icebandwidthload
+2019-07-06 15:00:08,701|INFO|6573|tryRegisterIce|205|tryRegisterIce....
+2019-07-06 15:00:08,706|INFO|6573|tryRegisterIce|214|register ice successful
+2019-07-06 15:00:09,361|INFO|6573|tryRegisterIce|219|sendMail ok
+2019-07-06 15:00:09,361|INFO|6573|tryRegisterIce|239|tryRegisterIce finish.
+2019-07-06 15:00:09,361|INFO|6573|<module>|316|start report tx rx info....
+2019-07-06 15:00:19,375|INFO|6573|<module>|334|start report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-07-06 15:00:19,862|INFO|6573|<module>|338|sendMail ok
+2019-07-06 15:10:25,435|ERROR|6573|sendHttpGetReq|95|url error|url=http://129.204.197.215:9000/icebandwidthload|timeout=5|headers={'Content-Type': 'application/json; charset=utf-8'}|reason=[Errno 111] Connection refused
+2019-07-06 15:10:25,435|ERROR|6573|reportRxTxRate|268|http failed:[Errno 111] Connection refused
+2019-07-06 15:10:25,435|ERROR|6573|<module>|346|can't report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-07-06 15:10:26,525|INFO|6573|<module>|350|sendMail ok
+2019-07-06 15:10:36,534|INFO|6573|<module>|334|start report rx tx info to http://129.204.197.215:9000/icebandwidthload
+2019-07-06 15:10:37,196|INFO|6573|<module>|338|sendMail ok
